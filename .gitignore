@@ -128,5 +128,6 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# Игнорировать temp.py
+# Игнорировать temp.py из character_creation_module
+character_creation_module/temp.py
 temp.py
