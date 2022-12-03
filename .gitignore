@@ -131,3 +131,4 @@ dmypy.json
 # Игнорировать temp.py из character_creation_module
 character_creation_module/temp.py
 temp.py
+
